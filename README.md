@@ -12,3 +12,5 @@ O usuário poderá também, informar o seu perfil de investidor, podendo alterar
 
 ![Captura de tela 2025-06-02 224004](https://github.com/user-attachments/assets/aaf56e34-29b2-4d8f-8df3-c2647e2e2784)
 
+
+*DOWNLOAD DA PLANILHA DISPONÍVEL AQUI:* https://github.com/KunglaoGaucho/Controle-Investimentos/blob/main/investimento.xlsx
